@@ -1,4 +1,4 @@
-# AI KFC Menu Predictor & Recommendation System 🍗🤖
+# AI KFC Menu Predictor & Recommendation System 🍗
 <p align="center">
   <img src="image.png" alt="Project Logo" width="300">
 </p>
